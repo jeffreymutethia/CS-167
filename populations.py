@@ -1,5 +1,5 @@
 """
-Author Usernames: Lauren Yumibe (yumibelh), Jeff Mutethia(mutethjt)
+Author(s): Lauren Yumibe , Jeff Mutethia
 Date: 10/5/19
 Assignment/Problem Number: 6
 Assignment/Problem Title: Plotting Populations
