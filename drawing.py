@@ -1,8 +1,8 @@
 """
-Author username(s): Jeff Mutethia(mutethjt)
+Author: Jeff Mutethia(mutethjt)
 Date: 09/26/2019
-Assignment/problem number:4
-Assignment/problem title: Drawing
+Problem number:4
+Problem title: Drawing
 """
 
 import turtle
