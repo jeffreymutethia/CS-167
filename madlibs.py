@@ -1,8 +1,8 @@
 """
-Author username(s): Jeff Mutethia(mutethjt)/Diego Quispe(quispedl)
+Author: Jeff Mutethia
 Date: 09/21/2019
-Assignment/problem number:2
-Assignment/problem title: An interesting story
+Problem number:2
+Problem title: An interesting story
 """
 
 #Man Arrested After Mistaking Bank For Taco Bell
