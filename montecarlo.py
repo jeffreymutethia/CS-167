@@ -1,8 +1,8 @@
 """
-Author username(s): Jeff Mutethia(mutethjt)
+Author(s): Jeff Mutethia
 Date: 10/13/2019
-Assignment/problem number: HW07
-Assignment/problem title: Monte Carlo and Friends
+Problem number: 07
+Problem title: Monte Carlo and Friends
 """
 
 import random
