@@ -10,7 +10,7 @@ import math
 import turtle
 
 
-#Part 1. Estimating π
+#Part 1. Estimating π(using Turtle)
 
 pie = turtle.Turtle()
 pie.hideturtle()
