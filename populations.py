@@ -77,11 +77,14 @@ def vampire_plot(initial_humans, initial_vampires, nightly_kill, n_days):
     pyplot.show()
 
 
+"""
+Test Values:
 
 tribble_table(100,10)
 vampire_table(10000,6,2,10)
 tribble_plot(100,10)
 vampire_plot(10000,6,2,10)
 
+"""
 
 
