@@ -5,6 +5,11 @@ Problem number:4
 Problem title: Drawing
 """
 
+"""
+Draws a spiral with alternating shades of black and yellow, red outline, black background.
+
+"""
+
 import turtle
 import random
 
